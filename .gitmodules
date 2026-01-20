@@ -13,6 +13,3 @@
 [submodule "05-data-project-pipelines/repos/05-data-project-pipelines"]
 	path = 05-data-project-pipelines/repos/05-data-project-pipelines
 	url = https://github.com/wortell-smart-learning/ado-05-data-project-pipelines.git
-[submodule "\\"]
-	path = \\
-	url = https://github.com/wortell-smart-learning/ado-05-data-project-pipelines.git
