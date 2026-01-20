@@ -13,6 +13,3 @@
 [submodule "04-data-project-pipelines/repos/04-data-project-pipelines"]
 	path = 04-data-project-pipelines/repos/04-data-project-pipelines
 	url = https://github.com/wortell-smart-learning/ado-04-data-project-pipelines.git
-[submodule "05-test-automation-preview/repos/05-test-automation-preview"]
-	path = 05-test-automation-preview/repos/05-test-automation-preview
-	url = https://github.com/wortell-smart-learning/ado-05-test-automation-preview.git
