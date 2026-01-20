@@ -1,0 +1,18 @@
+[submodule "01-git-azurerepos/repos/01-git-azurerepos"]
+	path = 01-git-azurerepos/repos/01-git-azurerepos
+	url = https://github.com/wortell-smart-learning/ado-01-git-azurerepos.git
+[submodule "02-git-branching/repos/02-git-branching"]
+	path = 02-git-branching/repos/02-git-branching
+	url = https://github.com/wortell-smart-learning/ado-02-git-branching.git
+[submodule "03-azure-pipelines/repos/03-azure-pipelines"]
+	path = 03-azure-pipelines/repos/03-azure-pipelines
+	url = https://github.com/wortell-smart-learning/ado-03-azure-pipelines.git
+[submodule "03b-advanced-azure-pipelines/repos/03b-advanced-azure-pipelines"]
+	path = 03b-advanced-azure-pipelines/repos/03b-advanced-azure-pipelines
+	url = https://github.com/wortell-smart-learning/ado-03b-advanced-azure-pipelines.git
+[submodule "04-data-project-pipelines/repos/04-data-project-pipelines"]
+	path = 04-data-project-pipelines/repos/04-data-project-pipelines
+	url = https://github.com/wortell-smart-learning/ado-04-data-project-pipelines.git
+[submodule "05-test-automation-preview/repos/05-test-automation-preview"]
+	path = 05-test-automation-preview/repos/05-test-automation-preview
+	url = https://github.com/wortell-smart-learning/ado-05-test-automation-preview.git
